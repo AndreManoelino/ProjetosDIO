@@ -1,5 +1,5 @@
 class cachorro:
-    #init sempre e o contrutor e executado no inicio do processo de instância
+    #init sempre e o construtor e executado no inicio do processo de instância
     def __init__(self, nome, cor, acordado=True):
         print('inicializandoo a classe....')
         self.nome = nome
